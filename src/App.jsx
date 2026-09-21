@@ -61,7 +61,7 @@ return (
 
       {expenses.length === 0 ? (
         <p className="empty-message">
-          No expenses added yet. Add your first expense above.
+          No expenses added yet. Add your first expense above, Thanks.
         </p>
       ) : (
         <ExpenseList
