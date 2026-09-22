@@ -51,7 +51,7 @@ function App() {
 return (
   <main className="app">
     <div className="expense-tracker">
-      <h1>My Personal Expense Tracker</h1>
+      <h1>Aditya's Personal Expense Tracker</h1>
 
       <ExpenseForm
        onAddExpense={handleAddExpense}
